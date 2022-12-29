@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@metamask/execution-environments": "^0.10.7",
-    "ses": "^0.15.11"
+    "ses": "^0.16.0"
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "^1.0.5",
